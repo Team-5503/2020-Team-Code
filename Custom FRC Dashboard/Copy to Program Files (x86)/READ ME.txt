@@ -1,4 +1,0 @@
-***BACKUP THE ORIGINAL DASHBOARD FILES TO A SAFE LOCATION***
-
-Copy the files inside this folder to
-C:\Program Files (x86)\FRC Dashboard\
