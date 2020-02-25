@@ -1,0 +1,35 @@
+----AXES----
+
+Joystick X - Global Variable for X-Axis while driving
+Joystick Y - Global Variable for Y-Axis while driving
+Auto Left - Left Drive Train for Autonomous Driving (Tank Drive)
+Auto Right - Right Drive Train for Autonomous Driving (Tank Drive)
+
+----BUTTONS----
+
+BUTTON 1 (X) - Currently no assignment
+BUTTON 2 (A) - Low RPM mode for Ball Shooter Mechanism
+BUTTON 3 (B) - Currently no assgignent
+BUTTON 4 (Y) - High RPM mode for Ball Shooter Mechanism
+
+BUTTON 5 (LB) - Turn Left for Wheel of Fortune Mechanism
+BUTTON 6 (RB) - Turn Right for Wheel of Fortune Mechanism
+BUTTON 7 (LT) - Precision Mode for Ball Shooter
+BUTTON 8 (RT) - Currently no assignment
+BUTTON 9 (Back) - Currently no assignment
+Button 10 (Start) - Currently no assignment
+Button 11 (LS Press) - Currently no assignment
+Button 12 (RS Press) - Currently no assignment
+
+----RoboRIO Slots----
+
+--PWM--
+
+PWM 1 - Ball Motor 1
+PWM 2 - Ball Motor 2
+PWM 3 - WOF 1 (Wheel of Fortune 1)
+PWM 8 - Left Arcade Drive Motor
+PWM 9 - Right Arcade Drive Motor
+
+--I2C--
+I2C Bus (On-Board) - Color Sensor 1
